@@ -1,0 +1,20 @@
+{
+  "name": "line-bot",
+  "description": "LINE Bot API",
+  "version": "0.0.1",
+  "main": "src/line.js",
+  "author": "Jihan Kim <laziel@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/laziel/line-bot",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "fs": "0.0.2",
+    "https": "^1.0.0",
+    "request": "^2.71.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laziel/line-bot.git"
+  }
+}
